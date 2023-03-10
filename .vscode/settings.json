@@ -1,0 +1,4 @@
+{
+  "ecl.launchConfiguration": "PublicCluster",
+  "ecl.targetCluster": {}
+}
